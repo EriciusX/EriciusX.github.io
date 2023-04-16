@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | 薛诚豪</title>
-    <link>https://example.com/zh/publication-type/2/</link>
-      <atom:link href="https://example.com/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EriciusX.github.io/zh/publication-type/2/</link>
+      <atom:link href="https://EriciusX.github.io/zh/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 23 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EriciusX.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/zh/publication-type/2/</link>
+      <link>https://EriciusX.github.io/zh/publication-type/2/</link>
     </image>
     
     <item>
       <title>Robust back-scattered light estimation for underwater image enhancement with polarization</title>
-      <link>https://example.com/zh/publication/display/</link>
+      <link>https://EriciusX.github.io/zh/publication/display/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/publication/display/</guid>
+      <guid>https://EriciusX.github.io/zh/publication/display/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

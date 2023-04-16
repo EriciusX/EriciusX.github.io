@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>薛诚豪</title>
-    <link>https://example.com/zh/</link>
-      <atom:link href="https://example.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://EriciusX.github.io/zh/</link>
+      <atom:link href="https://EriciusX.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     <description>薛诚豪</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://EriciusX.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>薛诚豪</title>
-      <link>https://example.com/zh/</link>
+      <link>https://EriciusX.github.io/zh/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/zh/talk/example-talk/</link>
+      <link>https://EriciusX.github.io/zh/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/talk/example-talk/</guid>
+      <guid>https://EriciusX.github.io/zh/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Robust back-scattered light estimation for underwater image enhancement with polarization</title>
-      <link>https://example.com/zh/publication/display/</link>
+      <link>https://EriciusX.github.io/zh/publication/display/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/publication/display/</guid>
+      <guid>https://EriciusX.github.io/zh/publication/display/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -59,9 +59,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/zh/slides/example/</link>
+      <link>https://EriciusX.github.io/zh/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/slides/example/</guid>
+      <guid>https://EriciusX.github.io/zh/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -184,9 +184,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://example.com/zh/admin/config.yml</link>
+      <link>https://EriciusX.github.io/zh/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/zh/admin/config.yml</guid>
+      <guid>https://EriciusX.github.io/zh/admin/config.yml</guid>
       <description></description>
     </item>
     
