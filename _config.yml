@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Personal Page"
+title                    : "Chenghao Xue"
 title_separator          : "-"
 name                     : &name "Chenghao Xue"
 description              : &description "personal description"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "me.png"
   name             : "Chenghao Xue"
-  pronouns         : # example: "she/her"  
-  bio              : "MS student in ECE@UC Davis"
+  pronouns         : ""
+  bio              : ""
   location         : "Davis, CA, USA"
   employer         : 
   uri              : # URL

@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 # About Me
-Hi, I am Chenghao Xue. I am currently a first-year graduate student at University of California, Davis, supervised by [Prof.Yubei Chen](https://yubeichen.com/).
+I received my M.S. in Electrical and Computer Engineering from the University of California, Davis, where I was advised by [Prof.Yubei Chen](https://yubeichen.com/).
 
- My research interests lie in imitation learning and reinforcement learning, particularly in their applications to games.
+My research interests center on learning and decision-making in intelligent agents, particularly world models and imitation learning. I am interested in how agents learn from visual observations and human demonstrations in interactive environments.
+
+I am seeking Ph.D. opportunities starting in Fall 2027.
 
 <!-- News
 ====== -->
@@ -210,7 +212,7 @@ Hi, I am Chenghao Xue. I am currently a first-year graduate student at Universit
 </td>
 <td valign="top" width="80%">
   <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html">
-   [Generative Model For IR]<papertitle_just> Adverse Weather Removal with Codebook Priors </papertitle_just>     
+  <papertitle_just> Adverse Weather Removal with Codebook Priors </papertitle_just>     
   </a>
   <br>
 Tian Ye*, Sixiang Chen*, Jinbin Bai*, Shi Jun, <strong>Chenghao Xue</strong>, Jingjia Jiang, Junjie Yin, Erkang Chen, Yun Liu.
@@ -224,7 +226,7 @@ Tian Ye*, Sixiang Chen*, Jinbin Bai*, Shi Jun, <strong>Chenghao Xue</strong>, Ji
 </td>
 <td valign="top" width="80%">
   <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612003?casa_token=a75USZL5B80AAAAA:dp3csUle8AR0HswrgeEa2-PTokDnl-PM2UhtdQEmSFVi2LnfBh_-mTxLyISAxi7xSOdVujFJUcpK5Q">
-    [Image Restoration]<papertitle_just> Uncertainty-Driven Dynamic Degradation Perceiving and Background Modeling for Efficient Single Image Desnowing</papertitle_just>     
+    <papertitle_just> Uncertainty-Driven Dynamic Degradation Perceiving and Background Modeling for Efficient Single Image Desnowing</papertitle_just>     
   </a>
   <br>
 SiXiang Chen*, Tian Ye*, <strong>Chenghao Xue*</strong>, Haoyu Chen, Yun Liu, Erkang Chen, Lei Zhu
@@ -234,21 +236,46 @@ SiXiang Chen*, Tian Ye*, <strong>Chenghao Xue*</strong>, Haoyu Chen, Yun Liu, Er
 <p></p>
 </td>
 
+<td width="20%">
+</td>
+<td valign="top" width="80%">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611742">
+   <papertitle_just> Sequential affinity learning for video restoration </papertitle_just>     
+  </a>
+  <br>
+Tian Ye, Sixiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, Wenbin Zou, Yunchen Zhang, Mingchao Jiang, Erkang Chen, <strong>Chenghao Xue</strong>.
+  <br>
+<em>ACM Multimedia (ACM MM) </em> 2023 <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3581783.3611742">PDF</a>
+<p></p>
+</td>
+
+
 </tbody>
 
 <!-- Program Committee / Reviewer
 ====== -->
 
-
-# Competitions & Awards
+# Selected Awards
 - Outstanding Graduate in Jimei University, 2024
+- National Bronze Award, China International College Students' Innovation Competition, 2023
+- National Second Prize, China Robot Competition, 2023
+- National Second Prize, National Undergraduate Electronics Design Contest, 2023
+- National First Prize, International Robot and Simulation Competition, 2023
+- National Second Prize, World University Underwater Robot Competition, 2022
 
-# Education & Experience
-- Sept. 2024-Present: MS Student, University of California, Davis.
+# Education
+- **University of California, Davis**  
+  2024–2026, M.S. in Electrical and Computer Engineering
 
-- Sept. 2020-Jun. 2024: B.Eng (Microelectronics Science and Engineering), Jimei University.
+- **Jimei University**  
+  2020–2024, B.Eng. in Microelectronics Science and Engineering
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mdVWyWcF2PwLZ4qmaRoa-VqdXxmkTHEvDKYMWi1iLAw'></script>
+
+<div style="width: 100%; max-width: 500px; margin: 20px auto;">
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=YkJl7R1NyhIU5O1hm31xzr6KpT2yiEYO0Eusqz3vXR8&co=2d78ad&ct=ffffff&cmo=f99300&cmn=ff5353"></script>
+</div>
 
 <style>
 /* Refined styling to match your existing design */
