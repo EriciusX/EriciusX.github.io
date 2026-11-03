@@ -273,9 +273,10 @@ Tian Ye, Sixiang Chen, Yun Liu, Wenhao Chai, Jinbin Bai, Wenbin Zou, Yunchen Zha
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=mdVWyWcF2PwLZ4qmaRoa-VqdXxmkTHEvDKYMWi1iLAw'></script>
 
-<div style="width: 100%; max-width: 500px; margin: 20px auto;">
+<details style="width: 100%; max-width: 500px; margin: 20px 0;">
+  <summary style="cursor: pointer;">Visitor Map</summary>
   <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=YkJl7R1NyhIU5O1hm31xzr6KpT2yiEYO0Eusqz3vXR8&co=2d78ad&ct=ffffff&cmo=f99300&cmn=ff5353"></script>
-</div>
+</details>
 
 <style>
 /* Refined styling to match your existing design */
